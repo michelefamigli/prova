@@ -1,0 +1,11 @@
+ Il volume nell'unit… E Š Volume
+ Numero di serie del volume: 4EAA-17D8
+
+ Directory di E:\TEMP\prova
+
+29/01/2019  16:30    <DIR>          .
+29/01/2019  16:30    <DIR>          ..
+29/01/2019  16:30                 0 file1.txt
+29/01/2019  16:30                 7 README.md
+               2 File              7 byte
+               2 Directory  373.812.752.384 byte disponibili
