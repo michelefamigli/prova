@@ -1,2 +1,3 @@
 file 4 pc2
-aggiungo a master
+tolta modifica master
+
