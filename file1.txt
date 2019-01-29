@@ -1,1 +1,2 @@
 v0.1
+correzione problema 1
